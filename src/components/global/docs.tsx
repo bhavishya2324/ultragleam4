@@ -11,6 +11,7 @@ import {
   TooltipProvider,
   TooltipTrigger,
 } from "@/components/ui/tooltip";
+import { Dock, DockIcon } from "@/components/magicui/dock";
 
 import { AnimatedPinDemo } from "./3d-pin";
 // import { ModeToggle } from "@/components/mode-toggle";
