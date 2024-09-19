@@ -54,7 +54,7 @@ const Icons = {
   instagram: (props: IconProps) => (
     <svg
      
-     viewBox="0 0 24 24"
+     viewBox="0 0 32 32"
       fill="currentColor"
       xmlns="http://www.w3.org/2000/svg"
       {...props}
@@ -145,11 +145,7 @@ const DATA = {
         url: "https://www.instagram.com/ultragleamindiapvt.ltd/",
         icon: Icons.instagram,
       },
-      email: {
-        name: "Send Email",
-        url: "#",
-        icon: Icons.email,
-      },
+     
     },
   },
 };
