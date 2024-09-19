@@ -22,7 +22,7 @@ const Icons = {
   calendar: (props: IconProps) => <CalendarIcon {...props} />,
   email: (props: IconProps) => <MailIcon {...props} />,
   facebook: (props: IconProps) => (
-    <svg viewBox="0 0 24 24" 
+    <svg viewBox="0 0 32 32" 
     
       xmlns="http://www.w3.org/2000/svg" {...props}>
       <title>Facebook</title>
@@ -144,6 +144,11 @@ const DATA = {
         name: "Instagram",
         url: "https://www.instagram.com/ultragleamindiapvt.ltd/",
         icon: Icons.instagram,
+      },
+        email: {
+        name: "Send mail",
+        url: "https://www.instagram.com/ultragleamindiapvt.ltd/",
+        icon: Icons.email,
       },
      
     },
