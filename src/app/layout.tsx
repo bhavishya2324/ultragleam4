@@ -6,8 +6,8 @@ import "./globals.css";
 const font = DM_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Noxiz",
-  description: "Step into the Future with Noxiz",
+  title: "Ultragleam",
+  description: "Clean home. Gleam home",
 };
 
 export default function RootLayout({
