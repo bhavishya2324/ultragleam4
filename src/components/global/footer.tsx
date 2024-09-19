@@ -15,7 +15,7 @@ const Footer: FC = () => {
 
         <p className="text-neutral-500  max-w-lg mx-auto my-2 text-sm text-center relative z-10">
         
-        Contact:- 9575203140 <br /> Email:- contact@ultragleam.in
+        Contact:-9343860346 <br /> Email:- contact@ultragleam.in
 
         </p>
 
