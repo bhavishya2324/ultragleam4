@@ -22,11 +22,8 @@ const Icons = {
   calendar: (props: IconProps) => <CalendarIcon {...props} />,
   email: (props: IconProps) => <MailIcon {...props} />,
   facebook: (props: IconProps) => (
-    <svg viewBox="0 0 32 32" 
-      width="32px"
-       x="0px"
-      y="0px"
-      height="32px"
+    <svg viewBox="0 0 24 24" 
+    
       xmlns="http://www.w3.org/2000/svg" {...props}>
       <title>Facebook</title>
       <path
@@ -56,8 +53,7 @@ const Icons = {
   
   instagram: (props: IconProps) => (
     <svg
-      width="32px"
-      height="32px"
+     
      viewBox="0 0 24 24"
       fill="currentColor"
       xmlns="http://www.w3.org/2000/svg"
